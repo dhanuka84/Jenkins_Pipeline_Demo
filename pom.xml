@@ -15,7 +15,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<cucumber.version>4.7.0</cucumber.version>
 		<testng.version>6.14.3</testng.version>
-		<cucumber.version>1</cucumber.version>
+		<cucumber.version>12</cucumber.version>
 	</properties>
 
 	<dependencies>
